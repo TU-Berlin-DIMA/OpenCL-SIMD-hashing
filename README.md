@@ -10,9 +10,9 @@ OpenCL is a parallel programming framework which provides a higher abstraction l
 
 - BibTeX citation:
 ```
-@inproceedings{behrens2018VectorizedHashingOpenCL,
+@inproceedings{behrens2018efficient,
   title={Efficient SIMD Vectorization for Hashing in OpenCL},
-  author={Behrens, Tobias and Rosenfeld, Viktor and Traub, Jonas and Breß, Sebastian and Markl, Volker},
+  author={Behrens, Tobias and Rosenfeld, Viktor and Traub, Jonas and Bre{\ss}, Sebastian and Markl, Volker},
   booktitle={21th International Conference on Extending Database Technology (EDBT)},
   year={2018}
 }
