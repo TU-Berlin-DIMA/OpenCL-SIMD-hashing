@@ -7,6 +7,7 @@ OpenCL is a parallel programming framework which provides a higher abstraction l
 
 **Publication:**
 - Paper: [Efficient SIMD Vectorization for Hashing in OpenCL](https://github.com/TU-Berlin-DIMA/OpenCL-SIMD-hashing/blob/master/paper/Efficient-SIMD-Vectorization-for-Hashing-in-OpenCL.pdf)
+- Poster: [EDBT 2018 Poster](https://github.com/TU-Berlin-DIMA/OpenCL-SIMD-hashing/blob/master/poster/EDBT-2018-Efficient-SIMD-Vectorization-for-Hashing-in-OpenCL.pdf)
 
 - BibTeX citation:
 ```
